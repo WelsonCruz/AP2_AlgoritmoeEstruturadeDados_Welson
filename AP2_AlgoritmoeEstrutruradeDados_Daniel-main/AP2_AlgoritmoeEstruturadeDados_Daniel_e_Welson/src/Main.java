@@ -110,7 +110,7 @@ public class Main {
         ArvoreBinariaDeBusca bst = new ArvoreBinariaDeBusca();
 
         // RA do Daniel
-        String ra = "2403844"; // <- usa este para ficar igual ao desenho (sem repetir 4)
+        String ra = "2401488"; // <- usa este para ficar igual ao desenho (sem repetir 4)
 
         // Constrói a árvore
         bst.construirComRA(ra);
